@@ -1,0 +1,8 @@
+node_modules/
+temp/
+
+generator-base-result/node_modules
+generator-base-result/www
+generator-base-result/.tmp
+generator-base-result/.sass-cache
+generator-base-result/www-source/bower_components 

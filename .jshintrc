@@ -1,6 +1,5 @@
 {
     "node": true,
-    "browser": true,
     "esnext": true,
     "bitwise": true,
     "camelcase": true,
@@ -18,5 +17,5 @@
     "strict": true,
     "trailing": true,
     "smarttabs": true,
-    "jquery": true
+    "white": true
 }

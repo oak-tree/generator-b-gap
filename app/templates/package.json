@@ -1,5 +1,5 @@
 {
-  "name": "directory-backbone-topcoat-require-mobile-gen",
+  "name": "<%= _.slugify(appname) %>",
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {

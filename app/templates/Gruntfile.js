@@ -22,7 +22,8 @@ module.exports = function (grunt) {
     // configurable paths
     var yeomanConfig = {
         app: 'www-source',
-        dist: 'www'
+        //dist: '<%= _.slugify(appname) %>/www'
+		dist: 'app/www'
     };
 
     grunt.initConfig({
